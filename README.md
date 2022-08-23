@@ -33,4 +33,3 @@ Cuyos vertices son:
 
 Ambos poligonos, el 'original' y el girado se verían así:
 ![imagen](https://user-images.githubusercontent.com/68278278/186280794-20ccda50-0bac-42a3-963c-149f0dec4340.png)
-![imagen](https://user-images.githubusercontent.com/68278278/186280795-b688e0cc-d026-4316-bf83-0ba7f93d5e78.png)
